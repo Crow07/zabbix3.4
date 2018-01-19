@@ -1,0 +1,7 @@
+[local-zabbix]
+name=local-zabbix
+baseurl=file:///home/rpms
+gpgcheck=0
+priority=1
+
+
